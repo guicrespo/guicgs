@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/guicrespo/">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-plain-wordmark.svg" alt="Linkedin logo"
-	title="Linkedin Guilherme Crespo" width="10%" height="auto" />
+	title="Linkedin Guilherme Crespo" width="20%" height="auto" />
 </a>
 
 Olá, sou o **Guilherme Crespo**! Sou **desenvolvedor web** e atualmente tenho trabalhado com as seguintes linguagens e tecnologias:
