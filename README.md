@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/guicrespo/">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-plain-wordmark.svg" alt="Linkedin logo"
-	title="A cute kitten" width="10%" height="auto" />
+	title="Linkedin Guilherme Crespo" width="10%" height="auto" />
 </a>
 
 Olá, sou o **Guilherme Crespo**! Sou **desenvolvedor web** e atualmente tenho trabalhado com as seguintes linguagens e tecnologias:
@@ -17,4 +17,4 @@ Utilizo o GitHub para versionamento de código, e estou habituado com ferramenta
 
 Estou familiarizado com ferramentas e metodologias ágeis, como Kanban e Scrum.
 
-Gosto muito de aprender novas tecnologias! **Entre em contato comigo pelo meu [Linkedin](https://www.linkedin.com/in/guicrespo/ "Linkedin Guilherme Crespo")** :)
+**Entre em contato comigo pelo meu [Linkedin](https://www.linkedin.com/in/guicrespo/ "Linkedin Guilherme Crespo")** :)
