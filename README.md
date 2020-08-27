@@ -17,6 +17,6 @@ Utilizo o GitHub para versionamento de código, e estou habituado com ferramenta
 
 Estou familiarizado com ferramentas e metodologias ágeis, como Kanban e Scrum.
 
-**Saiba mais sobre mim e entre em contato comigo pelo meu [Linkedin](https://www.linkedin.com/in/guicrespo/ "Linkedin Guilherme Crespo")** :)
+**Saiba mais sobre mim e entre em contato comigo pelo meu [Linkedin](https://www.linkedin.com/in/guicrespo/ "Linkedin Guilherme Crespo") ou pelo meu [email](mailto:gui7fc@gmail.com)** :)
 
 ![Gif de um código sendo "rolado" na página](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
