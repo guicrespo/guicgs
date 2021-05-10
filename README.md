@@ -3,20 +3,20 @@
 	title="Linkedin Guilherme Crespo" width="20%" height="auto" />
 </a>
 
-Olá, sou o **Guilherme Crespo**! Sou **desenvolvedor web** e atualmente tenho trabalhado com as seguintes linguagens e tecnologias:
+Hi, my name is **Guilherme Crespo**! I am a **software developer** and have experience working with:
 
-- **HTML** · **CSS** · **Javascript** (ES6)
-- **React** (+ Hooks e ContextAPI) · **Redux**
-- **SQL** (MySQL) · **NoSQL** (MongoDB)
-- **Node.js** (+ Express)
-- **Jest** · **React Testing Library**
-- **Heroku** · **PM2**
-- *Começando a estudar* **Python** e **Docker**
+- HTML (5) & CSS (3)
+- Javascript (ES6+)
+- React (+ Redux, + Hooks)
+- WebComponents (+ LitElement)
+- Node.js (+ Express, + Sequelize)
+- Python (+ FastAPI, + Scrapy, + SQLAlchemy)
+- GraphQL / MySQL / MongoDB
 
-Utilizo o GitHub para versionamento de código, e estou habituado com ferramentas como: linter para padronização e qualidade do código (local no VSCode com ESLint e por meio de GitHub Actions), Code Climate e TravisCI.
+I am used to working with GitHub and GitLab in an agile (and remote - with both synchronous and asynchronous activities) environment.
 
-Estou familiarizado com ferramentas e metodologias ágeis, como Kanban e Scrum.
+I am always willing to learn new tools and languages, and to get to know in more depth the ones I already work with.
 
-**Saiba mais sobre mim e entre em contato comigo pelo meu [Linkedin](https://www.linkedin.com/in/guicrespo/ "Linkedin Guilherme Crespo") ou pelo meu [email](mailto:gui7fc@gmail.com)** :)
+**Find out more about me or contact me via [Linkedin](https://www.linkedin.com/in/guicrespo/ "Linkedin Guilherme Crespo") or by [email](mailto:gui7fc@gmail.com)** :)
 
-![Gif de um código sendo "rolado" na página](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+![gif of some random code snippet being scrolled](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
