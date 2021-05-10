@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/guicrespo/">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-plain-wordmark.svg" alt="Linkedin logo"
+  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="Linkedin logo"
 	title="Linkedin Guilherme Crespo" width="20%" height="auto" />
 </a>
 
