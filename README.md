@@ -5,13 +5,13 @@
 
 Hi, my name is **Guilherme Crespo**! I am a **software developer** and have experience working with:
 
+- Python (+ FastAPI, + Scrapy, + SQLAlchemy)
+- GraphQL / MySQL / MongoDB
+- Node.js (+ Express, + Sequelize)
 - HTML (5) & CSS (3)
 - Javascript (ES6+)
 - React (+ Redux, + Hooks)
 - WebComponents (+ LitElement)
-- Node.js (+ Express, + Sequelize)
-- Python (+ FastAPI, + Scrapy, + SQLAlchemy)
-- GraphQL / MySQL / MongoDB
 
 I am used to working with GitHub and GitLab in an agile (and remote - with both synchronous and asynchronous activities) environment.
 
