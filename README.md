@@ -8,6 +8,7 @@ Hi, my name is **Guilherme Crespo**! I am a **software developer** and have expe
 - Python (+ FastAPI, + Scrapy, + SQLAlchemy)
 - GraphQL / MySQL / MongoDB
 - Node.js (+ Express, + Sequelize)
+- Docker
 - HTML (5) & CSS (3)
 - Javascript (ES6+)
 - React (+ Redux, + Hooks)
